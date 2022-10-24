@@ -9,6 +9,9 @@ app.use(cors());
 app.get("/", (req, res) => {
   res.send(name);
 });
+app.get("/datas", (req, res) => {
+  res.send(items);
+});
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
