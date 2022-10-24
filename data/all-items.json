@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Algebra",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS85lwBCgMihD7zvtsHoRqq1KLjJIhMRM2O8Hz0TAACiwrtbsWCtmcyEOYOig7EpOKvkCg&usqp=CAU",
+    "details": "Algebra is one of the broad areas of mathematics. Roughly speaking, algebra is the study of mathematical symbols and the rules for manipulating these symbols in formulas; it is a unifying thread of almost all of mathematics."
+  },
+  {
+    "id": "2",
+    "title": "Geometry",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHptNbMWXwUoIY4HGA1FUpJnXk3OFyK9gcDGl1Ha2omRr1eqmZK7UfH_p64N2Yuq-UGr0&usqp=CAU",
+    "details": "Geometry is, with arithmetic, one of the oldest branches of mathematics. It is concerned with properties of space such as the distance, shape, size, and relative position of figures. A mathematician who works in the field of geometry is called a geometer."
+  },
+  {
+    "id": "3",
+    "title": "Addition",
+    "image_url": "https://www.google.com/search?bih=706&biw=774&hl=en&sxsrf=ALiCzsZHwYZioWWzqCx9Zv7p6ZpPVH_Saw:1666631412653&q=Geometry&stick=H4sIAAAAAAAAAONQFuLQz9U3SM8trFTiArGMTCvM0-NPMcKFoUzTtPKkU4ycYGZBmZkFVNikKCsdyjSyNMw7xYhkyC9GhaDUnMSS1BSFknwFx5SUzJLM_DyFxLwUBffU_NzUkqLKXSxwe3axIGldxMoBUzKBjfEWmySD6cdWpultJ48skUzbu1_OqGQLa77R1ru9dgBooUlIwgAAAA&sa=X&ved=2ahUKEwi1hMrqrfn6AhUD_IUKHSkjDbkQ-BZ6BAgKEBk",
+    "details": "Addition is one of the four basic operations of arithmetic, the other three being subtraction, multiplication and division. The addition of two whole numbers results in the total amount or sum of those values combined."
+  },
+  {
+    "id": "4",
+    "title": "Subtraction",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZ4Lz0JKoj-O1fAiu-2ZdzAQM6fU9d3C2iA&usqp=CAU",
+    "details": "Subtraction is an arithmetic operation that represents the operation of removing objects from a collection. Subtraction is signified by the minus sign, −. For example, in the adjacent picture, there are 5 − 2 peaches—meaning 5 peaches with 2 taken away, resulting in a total of 3 peaches."
+  },
+  {
+    "id": "5",
+    "title": "Multiplication",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp-IyY6rvQLivu8lLhG2RGx1Y-Hiu0g7GjEg&usqp=CAU",
+    "details": "In mathematics, a product is the result of multiplication, or an expression that identifies objects to be multiplied, called factors. For example, 30 is the product of 6 and 5, and x-cdot is the product of x and."
+  },
+  {
+    "id": "6",
+    "title": "Division",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRzeLOAL5mH-UFSOuj6cVKHdPd05jcmvKYGw&usqp=CAU",
+    "details": "Division is one of the four basic operations of arithmetic, the ways that numbers are combined to make new numbers. The other operations are addition, subtraction, and multiplication."
+  },
+  {
+    "id": "7",
+    "title": "Measurement",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZ9SbP7eJsWZ-7kGkEPhbPZBD1ju-5_saGg&usqp=CAU",
+    "details": "Measurement is the quantification of attributes of an object or event, which can be used to compare with other objects or events. In other words, measurement is a process of determining how large or small a physical quantity is as compared to a basic reference quantity of the same kind."
+  },
+  {
+    "id": "8",
+    "title": "Decimals",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2iY609m8grDIgc518T-Bt8AphcGKVCLxRA&usqp=CAU",
+    "details": "The decimal numeral system is the standard system for denoting integer and non-integer numbers. It is the extension to non-integer numbers of the Hindu–Arabic numeral system. The way of denoting numbers in the decimal system is often referred to as decimal notation."
+  }
+]
