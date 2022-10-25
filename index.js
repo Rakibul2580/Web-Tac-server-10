@@ -7,9 +7,6 @@ const items = require("./data/all-items.json");
 
 app.use(cors());
 app.get("/", (req, res) => {
-  res.send(name);
-});
-app.get("/datas", (req, res) => {
   res.send(items);
 });
 app.get("/data/:id", (req, res) => {
