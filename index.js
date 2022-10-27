@@ -2,7 +2,6 @@ const express = require("express");
 const app = express();
 var cors = require("cors");
 const port = 5000;
-const name = require("./data/items-name.json");
 const items = require("./data/all-items.json");
 
 app.use(cors());

@@ -2,64 +2,57 @@
   {
     "id": "1",
     "title": "Algebra",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS85lwBCgMihD7zvtsHoRqq1KLjJIhMRM2O8Hz0TAACiwrtbsWCtmcyEOYOig7EpOKvkCg&usqp=CAU",
-    "details": "Algebra is one of the broad areas of mathematics. Roughly speaking, algebra is the study of mathematical symbols and the rules for manipulating these symbols in formulas; it is a unifying thread of almost all of mathematics.",
-    "History": "François Viète's work on new algebra at the close of the 16th century was an important step towards modern algebra. In 1637, René Descartes published La Géométrie, inventing analytic geometry and introducing modern algebraic notation. Another key event in the further development of algebra was the general algebraic solution of the cubic and quartic equations, developed in the mid-16th century. The idea of a determinant was developed by Japanese mathematician Seki Kōwa in the 17th century, followed independently by Gottfried Leibniz ten years later, for the purpose of solving systems of simultaneous linear equations using matrices. Gabriel Cramer also did some work on matrices and determinants in the 18th century. Permutations were studied by Joseph-Louis Lagrange in his 1770 paper Réflexions sur la résolution algébrique des équations devoted to solutions of algebraic equations, in which he introduced Lagrange resolvents. Paolo Ruffini was the first person to develop the theory of permutation groups, and like his predecessors, also in the context of solving algebraic equations.",
-    "d_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Gerolamo_Cardano_%28colour%29.jpg/270px-Gerolamo_Cardano_%28colour%29.jpg"
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png",
+    "details": "Angular is a TypeScript-based free and open-source web application framework lead by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.",
+    "price": 2000
   },
   {
     "id": "2",
-    "title": "Geometry",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHptNbMWXwUoIY4HGA1FUpJnXk3OFyK9gcDGl1Ha2omRr1eqmZK7UfH_p64N2Yuq-UGr0&usqp=CAU",
-    "details": "Geometry is, with arithmetic, one of the oldest branches of mathematics. It is concerned with properties of space such as the distance, shape, size, and relative position of figures. A mathematician who works in the field of geometry is called a geometer.",
-    "History": "The earliest recorded beginnings of geometry can be traced to ancient Mesopotamia and Egypt in the 2nd millennium BC.[4][5] Early geometry was a collection of empirically discovered principles concerning lengths, angles, areas, and volumes, which were developed to meet some practical need in surveying, construction, astronomy, and various crafts. The earliest known texts on geometry are the Egyptian Rhind Papyrus (2000–1800 BC) and Moscow Papyrus (c. 1890 BC), and the Babylonian clay tablets, such as Plimpton 322 (1900 BC). For example, the Moscow Papyrus gives a formula for calculating the volume of a truncated pyramid, or frustum.[6] Later clay tablets (350–50 BC) demonstrate that Babylonian astronomers implemented trapezoid procedures for computing Jupiter's position and motion within time-velocity space. These geometric procedures anticipated the Oxford Calculators, including the mean speed theorem, by 14 centuries.[7] South of Egypt the ancient Nubians established a system of geometry including early versions of sun clocks.",
-    "d_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Westerner_and_Arab_practicing_geometry_15th_century_manuscript.jpg/330px-Westerner_and_Arab_practicing_geometry_15th_century_manuscript.jpg"
+    "title": "Gatsby",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Gatsby_Logo.png/180px-Gatsby_Logo.png",
+    "details": "Gatsby is an open-source static site generator built on top of Node.js using React and GraphQL. It provides over 2500 plugins to create static sites based on sources as Markdown documents, MDX, images, and numerous Content Management Systems such as WordPress, Drupal and more.",
+    "price": 1800
   },
   {
     "id": "3",
-    "title": "Addition",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU7QTsd4M-SrbPKCOc8K0wJ5C4HY31fEGMOQ&usqp=CAU",
-    "History": "Addition and add are English words derived from the Latin verb addere, which is in turn a compound of ad to and dare to give, from the Proto-Indo-European root *deh₃- to give",
-    "d_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdXIvfS40iyO6LrbMhZefAfKnRpGZuZTP4Yg&usqp=CAU"
+    "title": "Plain HTML",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png",
+    "details": "HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as directly introduce content into the page. Other tags such as surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags but use them to interpret the content of the page.",
+    "price": 1000
   },
   {
     "id": "4",
-    "title": "Subtraction",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZ4Lz0JKoj-O1fAiu-2ZdzAQM6fU9d3C2iA&usqp=CAU",
-    "details": "Subtraction is an arithmetic operation that represents the operation of removing objects from a collection. Subtraction is signified by the minus sign, −. For example, in the adjacent picture, there are 5 − 2 peaches—meaning 5 peaches with 2 taken away, resulting in a total of 3 peaches.",
-    "History": "Subtraction is an arithmetic operation that represents the operation of removing objects from a collection. Subtraction is signified by the minus sign, −. For example, in the adjacent picture, there are 5 − 2 peaches—meaning 5 peaches with 2 taken away, resulting in a total of 3 peaches. Therefore, the difference of 5 and 2 is 3; that is, 5 − 2 = 3. While primarily associated with natural numbers in arithmetic, subtraction can also represent removing or decreasing physical and abstract quantities using different kinds of objects including negative numbers, fractions, irrational numbers, vectors, decimals, functions, and matrices",
-    "d_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Subtraction01.svg/270px-Subtraction01.svg.png"
+    "title": "Next.js",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjIGZ01GEuYT-1FBjOBijnBGqOXqhOIu2vhbk6gzoC7pa-3yKN9ovUbuvKO0gNMWqovfw&usqp=CAU",
+    "details": "Next.js is an open-source web development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites. React documentation mentions Next.js among Recommended Toolchains advising it to developers as a solution when Building a server-rendered website with Node.js.[4] Where traditional React apps can only render their content in the client-side browser, Next.js extends this functionality to include applications rendered on the server-side.",
+    "price": 1600
   },
   {
     "id": "5",
-    "title": "Multiplication",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp-IyY6rvQLivu8lLhG2RGx1Y-Hiu0g7GjEg&usqp=CAU",
-    "details": "In mathematics, a product is the result of multiplication, or an expression that identifies objects to be multiplied, called factors. For example, 30 is the product of 6 and 5, and x-cdot is the product of x and.",
-    "History": "The order in which real or complex numbers are multiplied has no bearing on the product; this is known as the commutative law of multiplication. When matrices or members of various other associative algebras are multiplied, the product usually depends on the order of the factors. Matrix multiplication, for example, is non-commutative, and so is multiplication in other algebras in general as well.",
-    "d_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRKs7gd90HVELVwXr65f7tVT-KnOc3flgPyQ&usqp=CAU"
+    "title": "Nuxt.js",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/180px-Nuxt_logo.svg.png",
+    "details": "The framework is advertised as a Meta-framework for universal applications. The term universal is used here with the meaning that the goal of the framework is to enable users to create web views in JavaScript utilizing the Vue.js single file component system and that can function both as in-browser single page application (SPA) views as well as server-rendered web views which are then (after server rendering) rehydrated to full SPA functionality.[5][6] Additionally, the framework enables users to have the content, or parts of it, fully pre-rendered on the server and served in the manner of static site generators.",
+    "price": 1400
   },
   {
     "id": "6",
-    "title": "Division",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRzeLOAL5mH-UFSOuj6cVKHdPd05jcmvKYGw&usqp=CAU",
-    "details": "Division is one of the four basic operations of arithmetic, the ways that numbers are combined to make new numbers. The other operations are addition, subtraction, and multiplication.",
-    "History": "The division with remainder or Euclidean division of two natural numbers provides an integer quotient, which is the number of times the second number is completely contained in the first number, and a remainder, which is the part of the first number that remains, when in the course of computing the quotient, no further full chunk of the size of the second number can be allocated. For example, if 21 apples are divided between 4 people, everyone receives 5 apples again, and 1 apple remains. For division to always yield one number rather than a quotient plus a remainder, the natural numbers must be extended to rational numbers or real numbers. In these enlarged number systems, division is the inverse operation to multiplication, that is a = c / b means a × b = c, as long as b is not zero. If b = 0, then this is a division by zero, which is not defined.[a][4]: 246  In the 21-apples example, everyone would receive 5 apple and a quarter of an apple, thus avoiding any leftover.",
-    "d_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Divide20by4.svg/330px-Divide20by4.svg.png"
+    "title": "React",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/180px-React-icon.svg.png",
+    "details": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.",
+    "price": 2100
   },
   {
     "id": "7",
-    "title": "Measurement",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZ9SbP7eJsWZ-7kGkEPhbPZBD1ju-5_saGg&usqp=CAU",
-    "details": "Measurement is the quantification of attributes of an object or event, which can be used to compare with other objects or events. In other words, measurement is a process of determining how large or small a physical quantity is as compared to a basic reference quantity of the same kind.",
-    "History": "Measurement is the quantification of attributes of an object or event, which can be used to compare with other objects or events.[1][2] In other words, measurement is a process of determining how large or small a physical quantity is as compared to a basic reference quantity of the same kind.[3] The scope and application of measurement are dependent on the context and discipline. In natural sciences and engineering, measurements do not apply to nominal properties of objects or events, which is consistent with the guidelines of the International vocabulary of metrology published by the International Bureau of Weights and Measures.[2] However, in other fields such as statistics as well as the social and behavioural sciences, measurements can have multiple levels, which would include nominal, ordinal, interval and ratio scales.",
-    "d_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/FourMetricInstruments.JPG/255px-FourMetricInstruments.JPG"
+    "title": "Svelte",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/96px-Svelte_Logo.svg.png",
+    "details": "Svelte is a free and open-source front end compiler created by Rich Harris and maintained by the Svelte core team members. Svelte is not a monolithic JavaScript library imported by applications: instead, Svelte compiles HTML templates to specialized code that manipulates the DOM directly, which may reduce the size of transferred files and give better client performance; application code is also processed by the compiler, inserting calls to automatically recompute data and re-render UI elements when the data they depend on is modified",
+    "price": 1750
   },
   {
     "id": "8",
-    "title": "Decimals",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ2iY609m8grDIgc518T-Bt8AphcGKVCLxRA&usqp=CAU",
-    "details": "The decimal numeral system is the standard system for denoting integer and non-integer numbers. It is the extension to non-integer numbers of the Hindu–Arabic numeral system. The way of denoting numbers in the decimal system is often referred to as decimal notation.",
-    "History": "Decimal fractions were first developed and used by the Chinese in the end of 4th century BCE,[28] and then spread to the Middle East and from there to Europe.[27][29] The written Chinese decimal fractions were non-positional.[29] However, counting rod fractions were positional.[27] Qin Jiushao in his book Mathematical Treatise in Nine Sections",
-    "d_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Qinghuajian%2C_Suan_Biao.jpg/255px-Qinghuajian%2C_Suan_Biao.jpg"
+    "title": "Vue.js",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/180px-Vue.js_Logo_2.svg.png",
+    "details": "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members.",
+    "price": 1600
   }
 ]
